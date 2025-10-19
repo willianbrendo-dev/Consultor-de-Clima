@@ -57,7 +57,6 @@ ConsultorDeClima/
 │       │   └── ClimaFuturo.java          # Record para previsão futura
 │       └── principal/
 │           └── Principal.java            # Aplicação principal
-├── pom.xml                                # Configuração Maven
 └── README.md
 ```
 
